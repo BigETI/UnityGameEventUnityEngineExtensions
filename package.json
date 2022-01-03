@@ -1,0 +1,21 @@
+{
+    "name": "com.bigeti.gameeventsunityengineextension",
+    "version": "1.0.0",
+    "displayName": "Unity game events \"UnityEngine\" extensions",
+    "description": "This package contains modules that extend game events with modules from the \"UnityEngine\" assembly.",
+    "dependencies": {},
+    "keywords": [
+        "engine",
+        "event",
+        "events",
+        "extension",
+        "extensions",
+        "game",
+        "unity"
+    ],
+    "author": {
+        "name": "Ethem Kurt",
+        "email": "bigeti.ethem@gmail.com",
+        "url": "https://bigeti.de/"
+    }
+}
